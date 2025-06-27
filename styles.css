@@ -1,0 +1,30 @@
+body{
+    background:linear-gradient(to right, #60302a);
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    padding: 30px;
+    color: #800000;
+}
+.container{
+    background-color: #987185;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    font-size: 16px;
+    box-shadow: 0 0 5px ;
+   
+}
+.container button{
+     background-color: #1ca376;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    font-size: 16px;
+}
+.container img{
+    border-radius: 150px;
+    width: 100px;
+    dis
+}
